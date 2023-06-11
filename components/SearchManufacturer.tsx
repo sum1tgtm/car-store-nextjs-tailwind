@@ -89,7 +89,6 @@ const SearchManufacturer = ({
                   )}
                 </Combobox.Option>
               ))}
-              )
             </Combobox.Options>
           </Transition>
         </div>
